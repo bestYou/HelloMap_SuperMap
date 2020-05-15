@@ -1,4 +1,4 @@
-# HelloMap_SuperMap
+# HelloMap SuperMap Version
 SuperMap iMobile入门Demo
 
 使用AS 3.6 + SuperMap iMobile 10i进行Demo编写，帮助新手入坑超图的移动开发包。
